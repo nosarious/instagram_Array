@@ -5,7 +5,9 @@
 
 import com.francisli.processing.http.*;
 
-String clientID = "d6208d23235d4cf287d63c9d6dc9cf31"; //put your clientID here
+String clientID = ""; //put your clientID here 
+
+// you will need to access the instagram api to get the client id.
 
 //PFont InstagramFont;
 //PFont InstagramFont2;
