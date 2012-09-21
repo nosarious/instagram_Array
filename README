@@ -1,0 +1,29 @@
+Instagram Array is the first attempt to work with the instagram API through processing.
+
+It prints certain items and displays others.
+
+It needs to have a class to store the variables for the array, and I need to figure out how to get more information on the people whose images are uploaded.
+
+Basically I would eventually like it to take the most popular images.
+
+find the following image specific information:
+
+# of image likes
+# of image comments
+# of tags
+Text of image
+uploader full name
+
+I also would like to find the following uploader information:
+
+# of uploads they have made
+# of images they have liked
+# of comments they have made
+# of followers
+# of people they are following
+# of tags they have produced
+
+This is basically a data compilation to find the activity of those whose images have become popular. Are they active in the instagram community or not. It's a class project. 
+
+Gerry Straathof.
+nosemonger@gmail.com
