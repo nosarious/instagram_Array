@@ -1,18 +1,21 @@
 Instagram Array is the first attempt to work with the instagram API through processing.
+This requires the processing http library, which you can find here: 
+http://francisli.github.com/processing-http/
 
-It prints certain items and displays others.
+Instagram array checks for the current popular images and retrieves a number of them for your consideration. 
+It prints certain information to the console and displays images on screen as part of it's process. It is intended as a starting point for those who wish to access instagram images from within a processing sketch.
 
 It needs to have a class to store the variables for the array, and I need to figure out how to get more information on the people whose images are uploaded.
 
-Basically I would eventually like it to take the most popular images.
+Basically I would eventually like it to take the most popular images and get more information on the image and uploader for a project I am doing.
 
 find the following image specific information:
 
-# of image likes
-# of image comments
-# of tags
-Text of image
-uploader full name
+# of image likes (done)
+# of image comments (done)
+# of tags (done)
+Text of image (done)
+uploader full name (done)
 
 I also would like to find the following uploader information:
 
